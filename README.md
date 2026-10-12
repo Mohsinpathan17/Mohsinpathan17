@@ -73,6 +73,17 @@ Portfolio with interactive 3D elements, selected engineering work, a NEXYRAL cas
 </tr>
 </table>
 
+### ◈ Additional engineering work
+
+**[Deloitte Internship Coding Task — Industrial Device Data Normalization](https://github.com/Mohsinpathan17/Deloitte-internship)**  
+`Python` · `JSON` · `unittest` · `Data transformation`
+
+Developed Python transformations to normalize two industrial-device telemetry JSON formats into one consistent output schema. Handled nested device records, location fields and timestamp conversion, with unit tests against an expected output.
+
+[Explore code & documentation ↗](https://github.com/Mohsinpathan17/Deloitte-internship)
+
+> This is a Deloitte-branded coding exercise, not a claim of employment with Deloitte.
+
 ### ◈ Technology stack
 
 **Languages**  
