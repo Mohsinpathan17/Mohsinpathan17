@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Website-06B6D4?style=for-the-badge&labelColor=101827)](https://mohsinpathan.vercel.app)
 [![NEXYRAL](https://img.shields.io/badge/NEXYRAL-Live%20App-8B5CF6?style=for-the-badge&labelColor=101827)](https://nexyral.online)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101827)](https://www.linkedin.com/in/mohsin-pathan/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101827)](https://www.linkedin.com/in/mohsin-pathan-b310b3291/)
 [![Email](https://img.shields.io/badge/EMAIL-Contact-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101827)](mailto:mohsinpathan1058@gmail.com)
 
 </div>
