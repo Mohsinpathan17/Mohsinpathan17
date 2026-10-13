@@ -52,12 +52,12 @@ Machine-learning research and application for evaluating pest outbreak risk from
 <tr>
 <td width="50%" valign="top">
 
-#### ✦ [Websites With Punch — Website Monitoring](https://www.websiteswithpunch.com/)
-**Website monitoring SaaS · Uptime · SSL · Domain expiry**
+#### ✦ [Websites With Punch — Web Design Studio](https://www.websiteswithpunch.com/)
+**React · TypeScript · Tailwind CSS · Vite**
 
-A website-health monitoring platform with HTTP(S) uptime and latency checks, SSL certificate expiration tracking, domain renewal monitoring, and a dashboard for site status and history. Offers free and paid subscription tiers.
+A web studio website presenting business website design, maintenance services, pricing information, portfolio examples and contact options.
 
-**[Live platform ↗](https://www.websiteswithpunch.com/)** · **[My repository ↗](https://github.com/Mohsinpathan17/websites-with-punch)**
+**[Live website ↗](https://www.websiteswithpunch.com/)** · **[My repository ↗](https://github.com/Mohsinpathan17/websites-with-punch)**
 
 </td>
 <td width="50%" valign="top">
